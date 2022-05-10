@@ -1,1 +1,1 @@
-ShinJeongah.github.io/build/index.html
+index.html
